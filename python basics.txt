@@ -1,0 +1,24 @@
+split
+strip
+replace
+
+
+//list 
+append
+insert
+clear
+pop
+delete
+
+list comprehension
+
+current item in expression or the outcome or the if else conditon but not like filter but as a way to maniulate items
+
+key = function
+
+
+https://www.w3schools.com/python/python_lists_methods.asp
+
+
+Tule
+add comma if only single item in tuple after the item
